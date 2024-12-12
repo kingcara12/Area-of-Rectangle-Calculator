@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cara_activity_04_2nd", "cara_activity_04_2nd\cara_activity_04_2nd.vbproj", "{AF90F936-F203-4FC4-9ECA-DD2D075DECDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF90F936-F203-4FC4-9ECA-DD2D075DECDE}.Debug|x86.ActiveCfg = Debug|x86
+		{AF90F936-F203-4FC4-9ECA-DD2D075DECDE}.Debug|x86.Build.0 = Debug|x86
+		{AF90F936-F203-4FC4-9ECA-DD2D075DECDE}.Release|x86.ActiveCfg = Release|x86
+		{AF90F936-F203-4FC4-9ECA-DD2D075DECDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
